@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url('./fonts/Sora/Sora-VariableFont_wght.ttf'); */
+
+@font-face {
+    font-family: 'Sora';
+    src: url('./fonts/Sora/Sora-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: 'SourceSerif4';
+    src: url('./fonts/Source_Serif_4/SourceSerif4-VariableFont_wght.ttf');
+}
