@@ -44,3 +44,17 @@ npm run build
 ```sh
 npm run lint
 ```
+### deploy project in firebase hosting [ESLint](https://eslint.org/)
+
+```sh
+firebase login
+```
+```sh
+firebase projects:list
+```
+```sh
+firebase init
+```
+```sh
+firebase deploy
+```
